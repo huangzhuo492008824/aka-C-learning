@@ -7,3 +7,4 @@ My c code in learning akaedu.
 ###*example
 *hello
 #world
+#add some words!
